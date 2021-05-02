@@ -7,5 +7,5 @@ For our spontaneous users we added a youtube video showing a video for a recipe 
 
 ![](assets/images/Screen%20Shot%202021-05-01%20at%2011.12.25%20PM.png)
 ![](assets/images/Screen%20Shot%202021-05-01%20at%2011.12.36%20PM.png)
-![](assets/images/Screen%20SShot%20S2021-05-01%20Sat%20S11.12.47%20SPM.png)
-![](assets/images/Screen%20SShot%20S2021-05-01%20Sat%20S11.12.53%20SPM.png)
+![](assets/images/Screen%20Shot%202021-05-01%20at%2011.12.47%20PM.png)
+![](assets/images/Screen%20Shot%202021-05-01%20at%2011.12.53%20PM.png)
